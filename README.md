@@ -16,9 +16,6 @@ Kami membantu UMKM, institusi, dan perorangan membangun solusi digital yang mode
 - 🌐 **Website Development**  
   Company profile • Website sekolah • Sistem Kepegawaian • Landing page
 
-- 📱 **Mobile App Development**  
-  Aplikasi Android untuk operasional bisnis atau startup
-
 - 🧾 **Custom Business Software**  
   Sistem kasir, penggajian, inventory, peminjaman buku, dll
 
@@ -54,7 +51,7 @@ Kami membantu UMKM, institusi, dan perorangan membangun solusi digital yang mode
 📧 Email: **jongsyahtech@gmail.com**  
 📱 Instagram: [@jongsyahtech](https://instagram.com/jongsyahtech)  
 🌐 Website: *Coming soon*  
-🔗 LinkedIn: *[Your Name or Page]*
+🔗 LinkedIn: *[Not Ready Yet]*
 
 ---
 
